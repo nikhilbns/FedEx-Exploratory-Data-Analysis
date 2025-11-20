@@ -28,7 +28,7 @@ To analyze FedEx Logistics’ shipment and purchase order data to improve delive
 ## Solution to Business Objective after conducting EDA
 1️. Strengthen Vendor and Manufacturing Site Performance
 
-Prioritize high-performing vendors and review contracts with those causing consistent delays.
+- Prioritize high-performing vendors and review contracts with those causing consistent delays.
 2️. Optimize Shipment Mode Selection
 
 Use Air Charter only for emergencies due to extremely high freight costs.
