@@ -1,6 +1,6 @@
 # FedEx-Exploratory-Data-Analysis
-FedEx Exploratory Data Analysis
-##Project Summary
+
+## Project Summary
 FedEx Logistics operates within a complex and rapidly evolving global supply chain environment, where efficiency, visibility, and cost optimization are critical to maintaining competitive advantage. As global commerce expands and customer expectations rise, the ability to manage international shipments with precision has become essential. This project focuses on analyzing a comprehensive logistics dataset that captures end-to-end shipment processes, providing insights into purchase orders, transportation modes, vendor agreements, delivery timelines, and product-specific characteristics. The goal is to leverage this dataset to enhance operational performance, identify inefficiencies, and support data-driven supply chain decision-making.
 
 At the core of the dataset is detailed purchase order and shipment information, including PO numbers, price quotations, sales orders, and Advanced Shipment Notices. These fields establish the commercial and operational foundation for each transaction, enabling analysts to trace how orders progress from creation to final delivery. Complementing these are critical timeline variables—such as the dates when purchase orders were sent to vendors, scheduled delivery dates, actual delivery dates, and recorded delivery confirmations. Together, these elements allow for precise measurement of on-time performance, delay analysis, and lead-time variability.
