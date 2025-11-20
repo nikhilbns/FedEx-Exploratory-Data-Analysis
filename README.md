@@ -29,57 +29,58 @@ To analyze FedEx Logistics’ shipment and purchase order data to improve delive
 1️. Strengthen Vendor and Manufacturing Site Performance
 
 - Prioritize high-performing vendors and review contracts with those causing consistent delays.
+
 2️. Optimize Shipment Mode Selection
 
-Use Air Charter only for emergencies due to extremely high freight costs.
+- Use Air Charter only for emergencies due to extremely high freight costs.
 
-Shift non-urgent and bulky shipments to Ocean or Truck modes to reduce cost.
+- Shift non-urgent and bulky shipments to Ocean or Truck modes to reduce cost.
 
 3️. Improve Demand Forecasting and Order Planning
 
-Bulk quantities and large delays indicate inconsistent planning.
+- Bulk quantities and large delays indicate inconsistent planning.
 
-Implement better forecasting to reduce emergency shipments and avoid high last-minute freight charges.
+- Implement better forecasting to reduce emergency shipments and avoid high last-minute freight charges.
 
 4️. Focus on High-Risk Countries
 
-Countries with high delays (e.g., Congo, Togo) need targeted operational improvements:
+- Countries with high delays (e.g., Congo, Togo) need targeted operational improvements:
 
-Early order placement
+  - Early order placement
 
-Local partnerships
+  - Local partnerships
 
-Buffer stock strategies
+  - Buffer stock strategies
 
 5️. Monitor Key Cost Drivers
 
-Weight, shipment mode, and product group drive freight cost and delays.
+- Weight, shipment mode, and product group drive freight cost and delays.
 
-Implement dashboards to track:
+- Implement dashboards to track:
 
-Freight cost per kg
+  - Freight cost per kg
 
-Cost per shipment mode
+  - Cost per shipment mode
 
-On-time delivery rates
+  - On-time delivery rates
 
 6️. Reduce Dependency on Few Vendors
 
-A handful of vendors/manufacturers handle most shipments → supply chain risk.
+- A handful of vendors/manufacturers handle most shipments → supply chain risk.
 
-Expand supplier base where possible to avoid disruptions.
+- Expand supplier base where possible to avoid disruptions.
 
 7️. Automate Data Tracking & Analytics
 
-Use automated reporting tools to monitor:
+- Use automated reporting tools to monitor:
 
-Delivery delays
+  - Delivery delays
 
-Vendor performance
+  - Vendor performance
 
-Freight anomalies
+  - Freight anomalies
 
-High-value shipments requiring security
+  - High-value shipments requiring security
 
 ## Conclusion
 This analysis highlights key patterns in the supply chain, showing that shipment volumes, costs, and delays vary widely across vendors, product groups, shipment modes, and countries. A few vendors and manufacturing sites handle most shipments, creating dependency risks, while certain shipment modes—especially Air Charter—drive high freight costs. Delivery delays in specific countries indicate operational challenges that need attention.
